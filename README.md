@@ -1,5 +1,5 @@
 # 什么是WATL-OJ？
 
-WATL-OJ是基于C++和其他主流语言的算法模板与教学资源项目
+来了？坐。介绍一下**WATL-OJ**
 
-说简单点，就是许许多多的算法知识与例题的集合
+**W**wh's **A**lgorithmic **T**emplate **L**ibrary **O**i **J**uge
