@@ -24,4 +24,7 @@
 
 - 如何查看`.md`文件？
 下载`Typora`，下载地址：https://www.typora.io/#windows
+
 如果你是Linux用户：https://www.typora.io/#linux
+
+资源填补ing.....
